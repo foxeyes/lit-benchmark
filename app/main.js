@@ -38,7 +38,6 @@ class MainApp extends LitElement {
     `;
   }
   refresh() {
-    console.log('click');
     let startTime = Date.now();
     for (let key in data) {
       data[key] = 'TEXT ' + startTime;

@@ -10,7 +10,7 @@ Average timing values for 10 attempts:
 ### Google Chrome
 | Initial Render | Dynamic Updates |
 |:---:|:---:|
-| 210ms | 102ms |
+| 210ms | 100ms |
 ### Firefox
 | Initial Render | Dynamic Updates |
 |:---:|:---:|
